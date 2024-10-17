@@ -6,8 +6,15 @@ html {
 body {
 
 }
-h1, h2
-h3
+h1 {
+  color: #141204
+}
+h2 {
+  color: #262A10
+}
+h3 {
+  color: #433723
+}
 p
 figure
 img
