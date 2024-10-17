@@ -7,19 +7,25 @@ body {
 
 }
 h1 {
-  color: #141204
+  color: #141204;
 }
+
 h2 {
-  color: #262A10
+  color: #262A10;
 }
+
 h3 {
-  color: #433723
+  color: #433723;
 }
+
 p
 figure
 img
 figcaption
-ul
+
+ul{
+  color: #A9714B;
+}
 li
 ol
 form
