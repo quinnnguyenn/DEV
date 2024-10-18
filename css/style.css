@@ -9,6 +9,10 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+p {
+  color: #FFFFFF;
+}
+
 h1 {
   color: #D0B8AC;
 }
