@@ -27,11 +27,13 @@ h3 {
 
 figure
 img
-figcaption
 
-ul{
-  color: 
+figcaption {
+  color: #FBFEFB
 }
+
+ul
+
 li {
   color: #FFFFFF;
 }
