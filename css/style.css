@@ -15,14 +15,17 @@ p {
 
 h1 {
   color: #D0B8AC;
+  font: Cambria;
 }
 
 h2 {
   color: #F3D8C7;
+  font: Cochin;
 }
 
 h3 {
   color: #EFE5DC;
+  font: Georgia;
 }
 
 figure
@@ -41,6 +44,7 @@ li {
 ol
 
 form {
+  color: #F3D8C7;
 }
 
 
