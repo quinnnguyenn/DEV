@@ -5,13 +5,13 @@
       }
 
       body {
-        margin: 20;
+        margin: 30;
       }
 
       h1 {
         text-align: center;
         line-height: 100px;
-        margin: 10;
+        margin: 0;
       }
 
       article {
