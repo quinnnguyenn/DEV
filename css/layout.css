@@ -1,5 +1,5 @@
-    <title>Flexbox 0 — starting code</title>
-    <style>
+<title>Flexbox 0 — starting code</title>
+<style>
       html {
         font-family: sans-serif;
       }
@@ -12,6 +12,9 @@
         text-align: center;
         line-height: 100px;
       }
+
+      figure
+img
 
       article {
         padding: 10px;

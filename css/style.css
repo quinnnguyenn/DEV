@@ -26,20 +26,20 @@ h2 {
 
 h3 {
   color: #EFE5DC;
+  font-family: DynaPuff;
 }
-
-figure
-img
 
 figcaption {
   color: #FBFEFB
-  font-family: Akaya Telivigala;
 }
 
-ul
+ul {
+  color: #FBFEFB
+}
 
 li {
   color: #FFFFFF;
+  font: Akaya Telivigala;
 }
 
 ol{
