@@ -14,8 +14,8 @@ p {
 
 h1 {
   color: #D0B8AC;
-  font-size: 100px;
-  font-family: Akaya Telivigala;
+  font-size: 80px;
+  font-family: Modak;
 }
 
 h2 {
@@ -33,6 +33,7 @@ img
 
 figcaption {
   color: #FBFEFB
+  font-family: Akaya Telivigala;
 }
 
 ul
