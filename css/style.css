@@ -10,6 +10,7 @@ body {
 
 p {
   color: #FFFFFF;
+  font: Akaya Telivigala;
 }
 
 h1 {
@@ -30,7 +31,8 @@ h3 {
 }
 
 figcaption {
-  color: #FBFEFB
+  font-family: Akaya Telivigala;
+  color: #fbfefb
 }
 
 ul {
