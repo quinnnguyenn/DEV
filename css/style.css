@@ -58,3 +58,8 @@ legend {
 label
 script
 
+section {
+  display: flex;
+  flex-direction: column;
+}
+
