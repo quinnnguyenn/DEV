@@ -64,11 +64,6 @@ legend {
   color: #F3D8C7;
 }
 
-section {
-  display: flex;
-  flex-direction: column;
-}
-
 div {
   border: 1px solid black;
   background-color: lightblue;
