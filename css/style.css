@@ -73,7 +73,15 @@ script
   width: 100px;
   height: 100px;
 }
-#box1
-#box2
-#box3
-#box4
+#box1 {
+  background-color: blue;
+}
+#box2 {
+  background-color: crimson;
+}
+#box3 {
+  background-color: darkorange;
+}
+#box4 {
+  background-color: indianred;
+}
