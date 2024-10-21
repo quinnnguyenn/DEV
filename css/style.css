@@ -18,7 +18,7 @@ h1 {
   color: #D0B8AC;
   font-size: 80px;
   font-family: Potta One;
-  text-align: start;
+  text-align: center;
   line-height: 100px;
 }
 
@@ -95,6 +95,10 @@ script
   grid-auto-rows: minmax(100px, auto);
 }
 
+.zero {
+  grid-column: 0;
+  grid-row: 0;
+}
 .one {
   grid-column: 1;
   grid-row: 1;
