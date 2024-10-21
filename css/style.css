@@ -4,6 +4,7 @@ html {
 }
 
 body {
+  margin: 30px;
   background: #5D423A;
   color: #FBFEFB
 }
@@ -17,6 +18,8 @@ h1 {
   color: #D0B8AC;
   font-size: 80px;
   font-family: Potta One;
+  text-align: center;
+  line-height: 100px;
 }
 
 h2 {
@@ -54,17 +57,43 @@ input
 fieldset
 figure
 img
+label
+script
 
 legend {
   color: #F3D8C7;
 }
 
-label
-script
-
 section {
   display: flex;
   flex-direction: column;
+}
+
+div {
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+article {
+  padding: 10px;
+  margin: 10px;
+  background: aqua;
 }
 
 
