@@ -78,6 +78,10 @@ legend {
   gap: 1px;
 }
 
+.p {
+  display: flex;
+}
+
 .item-1 {
   flex-grow: 1;
 }
