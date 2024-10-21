@@ -55,7 +55,11 @@ ol{
 form 
 input
 fieldset
-figure
+
+figure {
+  display: flex;
+}
+
 img
 label
 script
