@@ -1,23 +1,32 @@
 <title>Flexbox 0 — starting code</title>
 <style>
-      html {
-        font-family: sans-serif;
-      }
+html {
+    font-family: sans-serif;
+}
 
-      body {
-        margin: 30px;
-      }
+body {
+    margin: 30px;
+}
 
-      h1 {
-        text-align: center;
-        line-height: 100px;
-      }
+h1 {
+    text-align: center;
+    line-height: 100px;
+}
 
-      figure
+div {
+    border: 1px solid black;
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+figure
 img
 
-      article {
-        padding: 10px;
-        margin: 10px;
-        background: aqua;
-      }
+article {
+    padding: 10px;
+    margin: 10px;
+    background: aqua;
+}
