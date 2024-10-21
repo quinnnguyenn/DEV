@@ -25,7 +25,6 @@ h1 {
 h2 {
   color: #F3D8C7;
   font-family: DynaPuff;
-  
 }
 
 h3 {
@@ -52,24 +51,22 @@ ol{
   color: #FFFFFF;
 }
 
-form 
-input
-fieldset
-
-figure {
-  display: flex;
-}
-
-img
-label
-script
-
 legend {
   color: #F3D8C7;
 }
 
+form 
+input
+fieldset
+figure
+img
+label
+script
+
+
 .container {
   display: flex;
+  border: 10px black;
 }
 
 .box1{
